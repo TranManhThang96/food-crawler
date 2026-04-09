@@ -1,0 +1,9 @@
+# Blacklist keywords - mỗi dòng 1 từ khoá
+# Cửa hàng có tên hoặc địa chỉ chứa các keyword này sẽ bị loại
+# Ví dụ:
+highlands
+starbucks
+the coffee house
+kfc
+lotteria
+mcdonald
